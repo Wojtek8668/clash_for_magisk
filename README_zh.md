@@ -2,7 +2,7 @@
 
 A rule-based tunnel in Go. This module is wrapper for [clash](https://github.com/Dreamacro/clash) 
 
-[English](README.md)
+[English](https://github.com/Magisk-Modules-Repo/clash_for_magisk/blob/master/README.md)
 
 ## 需求
 
@@ -11,7 +11,7 @@ A rule-based tunnel in Go. This module is wrapper for [clash](https://github.com
 
 ## 开源协议
 
-参见 [NOTICE](NOTICE) 和 [LICENSE](LICENSE)
+参见 [NOTICE](https://github.com/Magisk-Modules-Repo/clash_for_magisk/blob/master/NOTICE) 和 [LICENSE](https://github.com/Magisk-Modules-Repo/clash_for_magisk/blob/master/LICENSE)
 
 
 ## 功能
